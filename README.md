@@ -1,4 +1,4 @@
-## Overview1
+## Overview
 **Jalan Technologies** works with enterprises across the globe to provide great technology solutions. Jai started Jalan Technologies in 2017 after realizing that there are a lot of businesses who are always looking for reliable technology partners to help them deliver solutions. Our primary nature of the business is technology consulting and implementation of software systems. Our engineers take full ownership of features and work alongside with customers to deliver them.
 
 The rest of the document talks about our values and how we operate. If you have any feedback on how we can improve, please write to Jai at jjalan@jalantechnologies.com
